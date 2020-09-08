@@ -1,0 +1,13 @@
+#btnTarkista, #btnTyhjenna{
+    height: 30px;
+    margin-left: 10px;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+#rekisteri{
+    width: 320px;
+    height: 40px;
+    border-radius: 8px;
+    font-size: 16px;
+}
