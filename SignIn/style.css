@@ -25,3 +25,9 @@
     background-color: limegreen;
     color: white;
 }
+
+#PassTulos, #EmailTulos{
+    margin-left: 650px;
+    font-size: 20px;
+    color: red;
+}
