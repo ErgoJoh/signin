@@ -1,0 +1,27 @@
+#Teksti{
+    margin-left: 625px;
+    margin-top: 100px;
+    color: darkblue;
+}
+
+#lomake{
+    margin-left: 650px;
+}
+
+#User, #Pass{
+    height: 10px;
+    font-size: 19px;
+    font-style: "Times New Roman", Times, Serif;
+}
+
+#Username, #Password{
+    height: 20px;
+}
+
+#SignIn{
+    height: 30px;
+    width: 165px;
+    font-size: 18px;
+    background-color: limegreen;
+    color: white;
+}
